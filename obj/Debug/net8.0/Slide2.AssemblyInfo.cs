@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Slide2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+735447f8f9c4c93e29a1b01e7251cb7963a92a5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Slide2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Slide2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
