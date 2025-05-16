@@ -1,0 +1,14 @@
+C:\Users\nhonmuiden\source\repos\Slide2\Slide2\bin\Debug\net8.0\Slide2.exe
+C:\Users\nhonmuiden\source\repos\Slide2\Slide2\bin\Debug\net8.0\Slide2.deps.json
+C:\Users\nhonmuiden\source\repos\Slide2\Slide2\bin\Debug\net8.0\Slide2.runtimeconfig.json
+C:\Users\nhonmuiden\source\repos\Slide2\Slide2\bin\Debug\net8.0\Slide2.dll
+C:\Users\nhonmuiden\source\repos\Slide2\Slide2\bin\Debug\net8.0\Slide2.pdb
+C:\Users\nhonmuiden\source\repos\Slide2\Slide2\obj\Debug\net8.0\Slide2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhonmuiden\source\repos\Slide2\Slide2\obj\Debug\net8.0\Slide2.AssemblyInfoInputs.cache
+C:\Users\nhonmuiden\source\repos\Slide2\Slide2\obj\Debug\net8.0\Slide2.AssemblyInfo.cs
+C:\Users\nhonmuiden\source\repos\Slide2\Slide2\obj\Debug\net8.0\Slide2.csproj.CoreCompileInputs.cache
+C:\Users\nhonmuiden\source\repos\Slide2\Slide2\obj\Debug\net8.0\Slide2.dll
+C:\Users\nhonmuiden\source\repos\Slide2\Slide2\obj\Debug\net8.0\refint\Slide2.dll
+C:\Users\nhonmuiden\source\repos\Slide2\Slide2\obj\Debug\net8.0\Slide2.pdb
+C:\Users\nhonmuiden\source\repos\Slide2\Slide2\obj\Debug\net8.0\Slide2.genruntimeconfig.cache
+C:\Users\nhonmuiden\source\repos\Slide2\Slide2\obj\Debug\net8.0\ref\Slide2.dll
