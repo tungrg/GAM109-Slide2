@@ -12,3 +12,4 @@ C:\Users\nhonmuiden\source\repos\Slide2\Slide2\obj\Debug\net8.0\refint\Slide2.dl
 C:\Users\nhonmuiden\source\repos\Slide2\Slide2\obj\Debug\net8.0\Slide2.pdb
 C:\Users\nhonmuiden\source\repos\Slide2\Slide2\obj\Debug\net8.0\Slide2.genruntimeconfig.cache
 C:\Users\nhonmuiden\source\repos\Slide2\Slide2\obj\Debug\net8.0\ref\Slide2.dll
+C:\Users\nhonmuiden\source\repos\Slide2\Slide2\obj\Debug\net8.0\Slide2.sourcelink.json
